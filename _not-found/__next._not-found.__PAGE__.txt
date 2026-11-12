@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:"static/chunks/500-fc3b64d9ff4a32a7.js"
+3:"static/chunks/284-75f4a96e7198aec3.js"
+4:"static/chunks/app/layout-5d6d930c85cd95d4.js"
+5:I[8481,["500","$2","284","$3","177","$4"],"Header"]
+6:I[7121,[],""]
+7:"static/chunks/app/error-1b6e827a1dcd12e2.js"
+8:I[7267,["39","$7"],"default"]
+9:I[4581,[],""]
+a:I[8500,["500","$2","284","$3","177","$4"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[484,[],"$15"]
+17:"MetadataBoundary"
+18:I[484,[],"$17"]
+:HL["/_next/static/css/13a5d6f94e2a0b4e.css","style"]
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"not-found container","children":[["$","span",null,{"className":"mono","children":"ОШИБКА 404"}],["$","h1",null,{"children":["Кажется, здесь",["$","br",null,{}],["$","span",null,{"children":"пока ничего."}]]}],["$","p",null,{"children":["Страница не найдена. На главной есть проекты,",["$","br",null,{}],"услуги и возможность обсудить вашу идею."]}],["$","$La",null,{"className":"button button-primary","href":"/","children":["На главную",["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"","children":"$0:t:t:d:r:props:children:1:props:children:props:children:2:props:notFound:0:props:children:3:props:children:1:props:children"}]]}]]}],null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
+d:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/13a5d6f94e2a0b4e.css","precedence":"next"}]],["$","html",null,{"lang":"ru","data-scroll-behavior":"smooth","suppressHydrationWarning":true,"children":["$","body",null,{"id":"top","children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержимому"}],["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$8","errorStyles":[],"errorScripts":null,"template":["$","$L9",null,{}],"notFound":[["$","main",null,{"id":"main","className":"not-found container","children":[["$","span",null,{"className":"mono","children":"ОШИБКА 404"}],["$","h1",null,{"children":["Кажется, здесь",["$","br",null,{}],["$","span",null,{"children":"пока ничего."}]]}],["$","p",null,{"children":["Страница не найдена. На главной есть проекты,",["$","br",null,{}],"услуги и возможность обсудить вашу идею."]}],["$","$La",null,{"className":"button button-primary","href":"/","children":["На главную",["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"","children":["$","path",null,{"d":"M5 19 19 5M5 5h14v14"}]}]]}]]}],[]]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-main","children":[["$","div",null,{"children":[["$","$La",null,{"href":"/","className":"wordmark","children":"Илья Алексеев_"}],["$","p",null,{"children":["Внимание к задаче.",["$","br",null,{}],"Дизайну. Каждой детали."]}]]}],["$","nav",null,{"aria-label":"Навигация в подвале","children":[["$","$La",null,{"href":"/#work","children":"Кейсы"}],["$","$La",null,{"href":"/#services","children":"Услуги"}],["$","$La",null,{"href":"/#process","children":"Процесс"}],["$","$La",null,{"href":"/#contact","children":"Контакты"}]]}],["$","div",null,{"className":"footer-socials","children":[["$","a",null,{"href":"https://t.me/happerss","target":"_blank","rel":"noopener noreferrer","children":["Telegram",["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"","children":"$0:t:t:d:r:props:children:1:props:children:props:children:2:props:notFound:0:props:children:3:props:children:1:props:children"}]]}],["$","a",null,{"href":"mailto:yaau2023@gmail.com","children":["Email",["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"","children":"$0:t:t:d:r:props:children:1:props:children:props:children:2:props:notFound:0:props:children:3:props:children:1:props:children"}]]}],"",["$","a",null,{"href":"#top","className":"back-top","children":["Наверх",["$","svg",null,{"width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"rotate-180","children":["$","path",null,{"d":"M12 4v16m-6-6 6 6 6-6"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Илья Алексеев"]}],["$","span",null,{"className":"footer-made","children":[["$","i",null,{}],"Спроектировано и написано с вниманием"]}],["$","$La",null,{"href":"/privacy","children":"Конфиденциальность"}]]}]]}]}]]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f5f3ed"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Илья Алексеев — разработка сайтов и веб-сервисов"}],["$","meta","1",{"name":"description","content":"Разработка сайтов с вниманием к дизайну и задачам бизнеса. Лендинги, корпоративные сайты, интернет-магазины и веб-сервисы: от структуры до запуска."}],["$","meta","2",{"name":"application-name","content":"Илья Алексеев — веб-разработчик"}],["$","meta","3",{"name":"author","content":"Илья Алексеев"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Илья Алексеев — разработка сайтов и веб-сервисов"}],["$","meta","6",{"property":"og:description","content":"Разработка сайтов с вниманием к дизайну и задачам бизнеса. Лендинги, корпоративные сайты, интернет-магазины и веб-сервисы: от структуры до запуска."}],["$","meta","7",{"property":"og:site_name","content":"Илья Алексеев"}],["$","meta","8",{"property":"og:locale","content":"ru_RU"}],["$","meta","9",{"property":"og:image","content":"https://bulat1753.github.io/opengraph-image.png"}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}],null]}],null]}],"p":"$@24","v":null,"s":"$c"}},"a":"$@25","u":"$@26","b":"Dorp22xSmAR9fJZ-HR5-5"}
+27:I[6869,[],"IconMark"]
+13:null
+19:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+1a:["$","meta","11",{"property":"og:image:height","content":"630"}]
+1b:["$","meta","12",{"property":"og:image:alt","content":"Илья Алексеев. Сайты, которые работают на ваш бизнес."}]
+1c:["$","meta","13",{"property":"og:type","content":"website"}]
+1d:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+1e:["$","meta","15",{"name":"twitter:title","content":"Илья Алексеев — разработка сайтов и веб-сервисов"}]
+1f:["$","meta","16",{"name":"twitter:description","content":"Разработка сайтов с вниманием к дизайну и задачам бизнеса. Лендинги, корпоративные сайты, интернет-магазины и веб-сервисы: от структуры до запуска."}]
+20:["$","meta","17",{"name":"twitter:image","content":"https://bulat1753.github.io/opengraph-image.png"}]
+21:["$","link","18",{"rel":"icon","href":"/favicon.svg"}]
+22:["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png"}]
+23:["$","$L27","20",{}]
+c:300
+26:true
+c:C
+25:0
+e:"$undefined"
+b:"$undefined"
+24:"$undefined"
+14:"$undefined"
