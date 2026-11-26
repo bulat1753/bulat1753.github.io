@@ -2,4 +2,4 @@
 :HL["/fonts/manrope.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/images/architecture.svg","image",{"fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"JJAT3pvNuplrKpQQaj_av","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6OmVRShUSNIQncwRfXkh-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
