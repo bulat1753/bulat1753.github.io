@@ -1,6 +1,6 @@
-:HL["/_next/static/css/802df3e0cbace515.css","style"]
+:HL["/_next/static/css/051aae693fb17904.css","style"]
 :HL["/fonts/manrope.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"pulse","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"-RBCsaf7TMYJKmjjGItDR","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"ItzKhWXK-m53mZrQsJZ7H","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
